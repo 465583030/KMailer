@@ -1,9 +1,9 @@
 # KMailer Document
 
-####Info:
-#####author: Asahi Kuang
-#####E-mail: asahikuang@gmail.com
-#####date: 2017-10-02
+#####Info:
+######author: Asahi Kuang
+######E-mail: asahikuang@gmail.com
+######date: 2017-10-02
 
 --
 
